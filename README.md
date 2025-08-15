@@ -5,7 +5,7 @@
 ✨ Passionate about **Generative AI** and **Large Language Models (LLMs)**  
 👩🏻‍💻 I enjoy building **websites** and **ML models** as a hobby  
 📊 Currently learning **Machine Learning** and experimenting with **LLMs**  
-🔗 Check out my projects on [Instagram](https://www.instagram.com/sushhii23)
+🔗 I am documenting my progress here [Instagram](https://www.instagram.com/sushhii23)
 
 ---
 
