@@ -3,18 +3,11 @@
 
 💻 **Data Science Student**  
 ✨ Passionate about **Generative AI** and **Large Language Models (LLMs)**  
-👩🏻‍💻 I enjoy building **websites** and **ML models** as a hobby  
+👩🏻‍💻 I enjoy building **websites** and **ML models**
 📊 Currently learning **Machine Learning** and experimenting with **LLMs**  
 🔗 I am documenting my progress here [Instagram](https://www.instagram.com/sushhii23)
 
----
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sushhii23)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukshiti-madge-927a02326)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sukshiti2306@gmail.com)  
-
----
+--- 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
