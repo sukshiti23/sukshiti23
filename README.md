@@ -1,39 +1,60 @@
-# 💫 About Me:
-Hello! I’m Sukshiti 👋
+# Sukshiti Madge
 
-I’m a second-year Data Science student with a strong interest in Machine Learning and Natural Language Processing. I enjoy working with data to uncover insights, build predictive models, and solve real-world problems.
+### Data Science Undergraduate | Machine Learning | AI Enthusiast
 
-I’m continuously learning and improving my skills through hands-on projects and practical applications, with the goal of becoming a Machine Learning Engineer.
+---
 
---- 
+## About Me
 
-# 💻 Tech Stack:
-**Languages & Libraries**
+I am a Data Science undergraduate with strong interest in Machine Learning, Deep Learning, and Data Analytics. I specialize in building end-to-end data science solutions, including data preprocessing, exploratory data analysis, feature engineering, model development, and performance evaluation.
 
-Python
+I have hands-on experience working with real-world datasets and developing predictive models to solve business problems. My technical expertise includes Python, TensorFlow, Scikit-learn, and Power BI for building data-driven solutions and generating actionable insights.
 
-NumPy
+I am passionate about leveraging Artificial Intelligence and data to solve real-world challenges and continuously improving my technical and analytical skills.
 
-Pandas
+ 
+## 💻 Skills
 
-**Data Visualization**
+### Programming Languages
 
-Matplotlib
+* Python
+* MySQL
+* JavaScript
+* HTML
+* CSS
+* C
 
-Seaborn
+### Machine Learning & Data Science
 
-**Machine Learning**
+* Supervised & Unsupervised Learning
+* Deep Learning & Neural Networks
+* Feature Engineering
+* Hyperparameter Tuning
+* Model Evaluation
+* Exploratory Data Analysis (EDA)
 
-Scikit-learn
+### Libraries & Frameworks
 
-Supervised Learning
+* Pandas
+* NumPy
+* Scikit-learn
+* TensorFlow
+* Matplotlib
+* Seaborn
 
-Unsupervised Learning
+### Data Visualization & Business Intelligence
 
-**Skills**
+* Power BI
+* Dashboard Development
+* Data Cleaning
+* Business Insights
 
-Data Analysis
+### Cloud & Tools
 
-Machine Learning
+* Google Cloud (Vertex AI, BigQuery, Dataplex)
+* GitHub
+* Supabase
+* React.js
+* n8n
 
-Natural Language Processing
+⭐ Open to AI/ML Internships, Research Opportunities, and Collaboration
